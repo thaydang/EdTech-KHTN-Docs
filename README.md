@@ -4,7 +4,8 @@
 
 ### Hệ thống Tài liệu Giải pháp Tự động hóa Xây dựng Đề kiểm tra Khoa học Tự nhiên THCS
 
-*Tài liệu kiến trúc giải pháp phục vụ chuyển đổi số trong dạy học, kiểm tra đánh giá và chuẩn hóa học liệu môn Khoa học Tự nhiên*
+*Tài liệu kiến trúc giải pháp phục vụ chuyển đổi số trong dạy học, 
+kiểm tra đánh giá và chuẩn hóa học liệu môn Khoa học Tự nhiên*
 
 <br>
 
